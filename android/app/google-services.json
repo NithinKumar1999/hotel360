@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443940014510",
+    "project_id": "hotel-360-3d510",
+    "storage_bucket": "hotel-360-3d510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443940014510:android:d5bab6ebcb197208ede03f",
+        "android_client_info": {
+          "package_name": "com.example.hotel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQaSxTBwYRG4ALr38zZZVUx4bFLQO6YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
